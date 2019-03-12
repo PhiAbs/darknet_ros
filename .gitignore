@@ -1,0 +1,2 @@
+# don't track content of these folders
+darknet_ros/yolo_network_config/weights
